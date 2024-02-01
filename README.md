@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mothigowtham.a@gmail.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/mothigowtha](http://linkedin.com/in/mothigowtha)
+- 📄 Know about my experiences [LinkedIn](http://linkedin.com/in/mothigowtham)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
