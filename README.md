@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mothi Gowtham</h1>
 <h3 align="center">I play with numbers, make them speak insights and convert them into knowledge.</h3>
 
-- 📫 How to reach me **mothigowtham.a@gmail.com**
+- 📫 How to reach me [Email](mothigowtham.a@gmail.com)
 
 - 📄 Know about my experiences [LinkedIn](http://linkedin.com/in/mothigowtham)
 
