@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [LinkedIn](http://linkedin.com/in/mothigowtham)
 
-- 👨‍💻 Know about my Visualizations [Tableau](http://public.com/app/profile/mothigowtham)
+- 👨‍💻 Sneak Peak into my Visualizations [Tableau](http://public.com/app/profile/mothigowtham)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
