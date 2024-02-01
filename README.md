@@ -5,6 +5,8 @@
 
 - 📄 Know about my experiences [LinkedIn](http://linkedin.com/in/mothigowtham)
 
+- 👨‍💻 Know about my Visualizations [Tableau](http://public.com/app/profile/mothigowtham)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mothigowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mothigowtham" height="30" width="40" /></a>
