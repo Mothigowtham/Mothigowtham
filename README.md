@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mothigowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mothigowtham" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/mothigowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tableau.svg" alt="mothigowtham Tableau Public" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
