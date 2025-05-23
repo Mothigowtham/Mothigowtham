@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mothigowtham.a@gmail.com**
 
-- 📝 Here is my portfolio [Portfolio](https://mothigowtham.vercel.app)
+- 📝 Here is my portfolio!
 
 - 📄 Know about my experiences [LinkedIn](http://linkedin.com/in/mothigowtham)
 
