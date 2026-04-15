@@ -8,7 +8,7 @@
 <p align="center">
 📝 <a href="#">Portfolio</a> • 
 📄 <a href="http://linkedin.com/in/mothigowtham">LinkedIn</a> • 
-👨‍💻 <a href="http://public.com/app/profile/mothigowtham">Tableau Portfolio</a>
+👨‍💻 <a href="http://public.tableau.com/app/profile/mothigowtham">Tableau Portfolio</a>
 </p>
 
 ---
