@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mothi Gowtham</h1>
+<h1 align="center">Hey there, I'm Mothi Gowtham 👋</h1>
 <h3 align="center">I play with numbers, make them speak insights and convert them into knowledge.</h3>
 <p align="center">
 📫 Reach me at <b>mothigowtham.a@gmail.com</b>
